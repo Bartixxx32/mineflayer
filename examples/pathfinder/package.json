@@ -3,8 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "mineflayer": "file:../..",
     "mineflayer-pathfinder": "^1.6.1",
-    "mineflayer": "file:../../"
+    "mineflayer-web-inventory": "^1.4.0",
+    "prismarine-viewer": "^1.14.0"
   },
   "description": "A mineflayer example"
 }
